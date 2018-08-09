@@ -2,9 +2,9 @@
 
 ## Overview
 *MPNS-client* is an implementation of provider-side client for Microsoft Push
-Notification Service, based on [official WP8 documentation]
-(https://msdn.microsoft.com/en-us/library/windows/apps/ff402558.aspx). It uses
-[Twisted networking engine](https://twistedmatrix.com).
+Notification Service, based on
+[official WP8 documentation](https://msdn.microsoft.com/en-us/library/windows/apps/ff402558.aspx).
+It uses [Twisted networking engine](https://twistedmatrix.com).
 
 ## Features
 * Preparing Raw, Toast, and Tile notifications
